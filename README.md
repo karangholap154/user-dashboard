@@ -6,34 +6,37 @@ A modern, responsive user dashboard built with React.js and Vite that allows you
 
 ## ✨ Features
 
-- **User Management**: View, search, and create users
-- **Responsive Design**: Works seamlessly on desktop, tablet, and mobile devices
-- **Modern UI**: Beautiful gradient design with smooth animations
-- **Search Functionality**: Filter users by name in real-time
-- **User Details**: View comprehensive user information including address and company details
-- **Context API**: Global state management using React Context
+* **User Management**: View, search, and create users
+* **Responsive Design**: Works seamlessly on desktop, tablet, and mobile devices
+* **Modern UI**: Beautiful gradient design with smooth animations
+* **Search Functionality**: Filter users by name in real-time
+* **User Details**: View comprehensive user information including address and company details
+* **Context API**: Global state management using React Context
 
 ## 🚀 Quick Start
 
 ### Prerequisites
 
-- Node.js (version 14 or higher)
-- npm or yarn package manager
+* Node.js (version 14 or higher)
+* npm or yarn package manager
 
 ### Installation
 
 1. Clone the repository:
+
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/karangholap154/user-dashboard
 cd user-dashboard
 ```
 
 2. Install dependencies:
+
 ```bash
 npm install
 ```
 
 3. Start the development server:
+
 ```bash
 npm run dev
 ```
@@ -42,11 +45,11 @@ npm run dev
 
 ## 🛠️ Built With
 
-- **React.js** - Frontend framework
-- **Vite** - Build tool and development server
-- **Tailwind CSS** - Utility-first CSS framework
-- **React Router DOM** - Client-side routing
-- **Axios** - HTTP client for API requests
+* **React.js** - Frontend framework
+* **Vite** - Build tool and development server
+* **Tailwind CSS** - Utility-first CSS framework
+* **React Router DOM** - Client-side routing
+* **Axios** - HTTP client for API requests
 
 ## 📁 Project Structure
 
@@ -67,18 +70,33 @@ src/
 
 ## 🎨 Design Features
 
-- **Gradient Color Scheme**: Indigo to purple gradient theme
-- **Smooth Animations**: Hover effects and transitions
-- **Card-based Layout**: Modern card design for user information
-- **Responsive Grid**: Adapts to all screen sizes
-- **Interactive Elements**: Buttons and forms with visual feedback
+* **Gradient Color Scheme**: Indigo to purple gradient theme
+* **Smooth Animations**: Hover effects and transitions
+* **Card-based Layout**: Modern card design for user information
+* **Responsive Grid**: Adapts to all screen sizes
+* **Interactive Elements**: Buttons and forms with visual feedback
 
 ## 📱 Responsive Design
 
 The application is fully responsive and optimized for:
-- **Desktop** (1024px and above)
-- **Tablet** (768px to 1023px)
-- **Mobile** (below 768px)
+
+* **Desktop** (1024px and above)
+* **Tablet** (768px to 1023px)
+* **Mobile** (below 768px)
+
+### 📷 Screenshots
+
+#### Dashboard - Desktop View
+
+![Dashboard Desktop](/screenshots/Dashboard%20Desktop.png)
+
+#### User Details - Desktop View
+
+![User Details Desktop](/screenshots/User%20Details%20Desktop.png)
+
+#### Dashboard - Mobile View
+
+![Dashboard Mobile](/screenshots/Dashboard%20Mobile.jpg)
 
 ## 🔧 API Integration
 
@@ -104,10 +122,10 @@ npm run test
 
 ## 📄 Scripts
 
-- `npm run dev` - Start development server
-- `npm run build` - Build for production
-- `npm run preview` - Preview production build
-- `npm run test` - Run test suite
+* `npm run dev` - Start development server
+* `npm run build` - Build for production
+* `npm run preview` - Preview production build
+* `npm run test` - Run test suite
 
 ## 🤝 Contributing
 
@@ -123,9 +141,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgments
 
-- [JSONPlaceholder](https://jsonplaceholder.typicode.com/) for providing fake API data
-- [Tailwind CSS](https://tailwindcss.com/) for the utility-first CSS framework
-- [React Icons](https://react-icons.github.io/react-icons/) for the beautiful icons
+* [JSONPlaceholder](https://jsonplaceholder.typicode.com/) for providing fake API data
+* [Tailwind CSS](https://tailwindcss.com/) for the utility-first CSS framework
+* [React Icons](https://react-icons.github.io/react-icons/) for the beautiful icons
 
 ## 📞 Support
 
